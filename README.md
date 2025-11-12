@@ -5,3 +5,6 @@
 
 # Reference
 https://github.com/filaPro/oneformer3d.git
+
+# Weight
+Down load： https://pan.baidu.com/s/1urNbqTKwLQ925Df2ULqXjA?pwd=nw27 提取码: nw27
